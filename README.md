@@ -3,7 +3,7 @@
 Duelo simplificado de Yu-Gi-Oh! contra la máquina.
 
 ## Integrantes
-- Adrian Felipe Velasquez
+- Adrian Felipe Velasquez Arias
 - Manuel Alexander Serna Jaraba
 
 ## Cómo ejecutar
